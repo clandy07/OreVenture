@@ -1,11 +1,10 @@
 package main;
 
+import java.awt.Dimension;
+import java.awt.Graphics;
+import javax.swing.JPanel;
 import inputs.KeyboardInputs;
 import inputs.MouseInputs;
-
-import javax.swing.*;
-import java.awt.*;
-
 import static main.Game.GAME_HEIGHT;
 import static main.Game.GAME_WIDTH;
 
